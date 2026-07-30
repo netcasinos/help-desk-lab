@@ -29,7 +29,7 @@ This lab documents my hands-on practice with Windows troubleshooting, networking
 
 ## Completed Tickets
 
-- [ ] Ticket 001 — No Internet Connection
+- [x] Ticket 001 — No Internet Connection
 - [ ] Ticket 002 — Slow Computer
 - [ ] Ticket 003 — Account Lockout
 - [ ] Ticket 004 — Printer Offline
