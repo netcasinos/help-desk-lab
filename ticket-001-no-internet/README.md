@@ -2,7 +2,7 @@
 
 ## Ticket Information
 
-**Technician:** Cameron Carter  
+**Technician:** Casino 
 **Date:** July 29, 2026  
 **Priority:** Medium  
 **Status:** Resolved  
@@ -428,7 +428,7 @@ Windows could communicate using the address assigned to the wireless adapter.
 
 ## 4. Gateway and External Connectivity
 
-![Gateway and external connectivity tests](screenshots/Ticket001-ExternalPing.png)
+![Default gateway test](screenshots/Ticket001-GatewayPing.png)
 
 The default gateway `10.0.0.1` and external IP address `8.8.8.8` both
 responded with 0% packet loss. This confirmed local router communication and
