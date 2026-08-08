@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ticket-002-slow-computer/README.md.md",
+                "file": "ticket-002-slow-computer/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ],
@@ -215,7 +215,7 @@
   "active": "9a26c369e916a19a",
   "lastOpenFiles": [
     "ticket-002-slow-computer/Ticket 002 Report.md.md",
-    "ticket-002-slow-computer/README.md.md",
+    "ticket-002-slow-computer/README.md",
     "Ticket002-SFCScan.png",
     "Ticket002-StartupPrograms.png",
     "Ticket002-DiskHealth.png",
