@@ -53,7 +53,7 @@ Reviewed the operating system version and system boot time to establish basic sy
 
 **Evidence:**
 
-![[Ticket002-SystemInfo.png]]
+![System Information](screenshots/Ticket002-SystemInfo.png)
 
 **Finding:**
 
@@ -73,7 +73,7 @@ Reviewed running processes to identify applications that may be consuming excess
 
 **Evidence:**
 
-![[Ticket002-TopProcesses.png]]
+![Top Processes](screenshots/Ticket002-TopProcesses.png)
 
 
 
@@ -96,7 +96,7 @@ The number of simultaneously running applications suggested that background soft
 Checked total and available physical memory to determine whether insufficient RAM was contributing to slow system performance.
 
 **Evidence:**
-![[Ticket002-MemoryUsage.png]]
+![Memory Usage](screenshots/Ticket002-MemoryUsage.png)
 
 
 **Finding:**
