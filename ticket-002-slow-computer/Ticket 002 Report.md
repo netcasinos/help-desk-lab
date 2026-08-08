@@ -118,7 +118,7 @@ Checked available storage on the Windows system drive. Low free disk space can n
 
 **Evidence:**
 
-![[Ticket002-DiskSpace.png]]
+![Disk Space](screenshots/Ticket002-DiskSpace.png)
 
 **Finding:**
 
@@ -147,7 +147,7 @@ Reviewed the physical storage device health and operational status to determine 
 
 **Finding:**
 
-![[Ticket002-DiskHealth.png]]
+![Disk Health](screenshots/Ticket002-DiskHealth.png)
 
 
 
@@ -169,7 +169,7 @@ Reviewed applications configured to launch during Windows startup. Excessive sta
 **Evidence:**
 
 ```
-![[Ticket002-StartupPrograms.png]]
+![Startup Programs](screenshots/Ticket002-StartupPrograms.png)
 ```
 
 
@@ -194,7 +194,7 @@ Ran the Windows System File Checker to identify missing, corrupted, or modified 
 
 **Evidence:**
 
-![[Ticket002-SFCScan.png]]
+![SFC Scan](screenshots/Ticket002-SFCScan.png)
 
 **Finding:**
 
