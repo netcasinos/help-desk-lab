@@ -168,9 +168,7 @@ Reviewed applications configured to launch during Windows startup. Excessive sta
 
 **Evidence:**
 
-```
 ![Startup Programs](screenshots/Ticket002-StartupPrograms.png)
-```
 
 
 **Finding:**
