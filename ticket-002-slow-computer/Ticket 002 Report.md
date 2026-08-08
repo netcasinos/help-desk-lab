@@ -142,12 +142,10 @@ Storage usage should still be monitored because continued reduction in available
 Reviewed the physical storage device health and operational status to determine whether a failing or degraded disk could be responsible for slow system performance.
 
 **Evidence:**
-
+![Disk Health](screenshots/Ticket002-DiskHealth.png)
 
 
 **Finding:**
-
-![Disk Health](screenshots/Ticket002-DiskHealth.png)
 
 
 
