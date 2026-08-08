@@ -73,7 +73,7 @@ Reviewed running processes to identify applications that may be consuming excess
 
 **Evidence:**
 
-![[Ticket002-TopProcesses.png|900]]
+![[Ticket002-TopProcesses.png]]
 
 
 
@@ -168,8 +168,9 @@ Reviewed applications configured to launch during Windows startup. Excessive sta
 
 **Evidence:**
 
+```
 ![[Ticket002-StartupPrograms.png]]
-
+```
 
 
 **Finding:**
@@ -227,4 +228,4 @@ Following the startup configuration changes and system restart, system responsiv
 
 The system successfully booted and remained operational without errors. Resource utilization was reviewed to confirm that fewer unnecessary applications were running automatically in the background.
 
-The user was able to resume normal system operation, and no hardware or Windows system-file integrity issues were detected.
+The user was able to resume normal system operation, and no hardware or Windows system-file integrity issues were detected.![[Ticket002-MemoryAfterResolution.png]]

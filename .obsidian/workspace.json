@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ticket-002-slow-computer/Ticket 002 Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ticket 002 Report"
             }
           }
         ],
@@ -212,25 +212,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a26c369e916a19a",
+  "active": "e7a74df74e308ac4",
   "lastOpenFiles": [
+    "ticket-002-slow-computer/screenshots/Ticket002-TopProcesses.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-MemoryUsage.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-DiskSpace.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-DiskHealth.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-StartupPrograms.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-SFCScan.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-MemoryAfterResolution.png",
+    "ticket-002-slow-computer/screenshots/Ticket002-SystemInfo.png",
+    "ticket-002-slow-computer/screenshots.md",
+    "ticket-002-slow-computer/Ticket 002 Report.md",
+    "ticket-002-slow-computer/screenshots",
+    "ticket-002-slow-computer/README.md",
     "ticket-001-no-internet/README.md",
-    "Ticket001-DNSLookup.png",
-    "Pasted image 20260808173537.png",
-    "AdminCommands-PrivilegeVerification.png",
+    "ticket-001-no-internet/screenshots/Ticket001-GatewayPing.png",
+    "README.md",
+    "Ticket002-MemoryAfterResolution.png",
+    "Ticket002-TopProcesses.png",
     "windows-adminstrator-commands/screenshots.md",
     "windows-adminstrator-commands/README.md",
-    "windows-adminstrator-commands/screenshots/AdminCommands-PrivilegeVerification.png",
-    "Ticket002-StartupPrograms.png",
-    "Ticket002-SystemInfo.png",
-    "ticket-002-slow-computer/README.md",
-    "ticket-002-slow-computer/Ticket 002 Report.md.md",
-    "Ticket002-SFCScan.png",
-    "Ticket002-DiskHealth.png",
-    "Ticket002-DiskSpace.png",
-    "Ticket002-MemoryUsage.png",
-    "ticket-002-slow-computer/screenshots.md",
-    "README.md",
     "ticket-002-slow-computer",
     "Ticket 002.md",
     "ticket-001-no-internet/windows-adminstrator-commands/screenshots",
